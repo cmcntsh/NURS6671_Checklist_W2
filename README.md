@@ -33,11 +33,21 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 |  |
 | What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
-| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| $\textcolor{red}{Add \ this \ section:}$ What were the data handline procedures? |
 | <br><br><br><br> |
 | **----------Section #2: Dataset Information (Data Screening & Data Cleaning)----------** |
 |  |
-| What are the variables in the dataset and the level of measurement for each one? |
+| What are the variables in the dataset, and what is the level of measurement for each one? |
+| <br><br><br><br> |
+| $\textcolor{red}{Add \ this \ section:}$ Describe data accuracy. Any issues? If so, how will they be addressed? (Some potential things to check about data accuracy might include: data types match levels of measurement, typographical errors in data entry, values that don’t make sense for the phenomena represented by the variable, categories that don’t make sense for the phenomena represented by the variable, decisions about how to address problems identified) |
+| <br><br><br><br> |
+| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| <br><br><br><br> |
+| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| <br><br><br><br> |
+| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| <br><br><br><br> |
+| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
 | <br><br><br><br> |
 | **----------Section #3: Individual Test Information (Complete this section for each test run.)----------** |
 |  |
