@@ -8,6 +8,7 @@ You must use the concepts you learn in this course throughout the rest of your p
 | Data Summary: Frequency (counts) and Percentages | Data Summary: Frequency (counts) and Percentages | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges |
 | Data Display: Bar Charts | Data Display: Bar Charts | Data Display: Histograms and Box Plots | Data Display: Histograms and Box Plots |
 
+<br><br><br>
 # Which statistical test should I use?
 
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
