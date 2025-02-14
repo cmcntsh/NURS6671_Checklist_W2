@@ -33,6 +33,8 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 |  |
 | What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
+| $\color{red}{What were the data handling procedures?}$ |
+| <br><br><br><br> |
 | **----------Section #2: Dataset Information (Data Screening & Data Cleaning)----------** |
 |  |
 | What are the variables in the dataset and the level of measurement for each one? |
