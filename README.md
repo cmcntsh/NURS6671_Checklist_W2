@@ -1,5 +1,13 @@
 You must use the concepts you learn in this course throughout the rest of your program. To help you do this, you will build a couple of tools to help you after you finish this course. The first is a table of what statistical tests can be used when you have independent (or predictor) variables (IV) and dependent (or outcome) variables (DV) with various levels of measurement. The second is an analysis/critique checklist of things you should consider when performing an analysis or critiquing the statistical analyses used in a research report. You must add information to your copy of these tools and turn it in each week as we go through the course.
 
+# Which descriptive statistics should I use?
+
+| Nominal | Ordinal | Interval | Ratio |
+| --- | --- | --- | --- |
+| Categorical | Categorical | Continuous | Continuous |
+| Data Summary: Frequency and Percentages | Data Summary: Frequency and Percentages | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges |
+| Data Display: Bar Charts | Data Display: Bar Charts | Data Display: Histograms and Box Plots | Data Display: Histograms and Box Plots |
+
 # Which statistical test should I use?
 
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
