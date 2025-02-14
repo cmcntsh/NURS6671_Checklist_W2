@@ -41,13 +41,13 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | <br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ Describe data accuracy. Any issues? If so, how will they be addressed? (Some potential things to check about data accuracy might include: data types match levels of measurement, typographical errors in data entry, values that don’t make sense for the phenomena represented by the variable, categories that don’t make sense for the phenomena represented by the variable, decisions about how to address problems identified) |
 | <br><br><br><br> |
-| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| $\textcolor{red}{Add \ this \ section:}$ Describe missing data. Any issues? |
 | <br><br><br><br> |
-| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| $\textcolor{red}{Add \ this \ section:}$ Describe outliers. Any issues? |
 | <br><br><br><br> |
-| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| $\textcolor{red}{Add \ this \ section:}$ After initial data cleaning and review, have needed descriptive statistics been calculated before proceeding with analysis? What descriptive statistics will be needed for the study report? |
 | <br><br><br><br> |
-| $\textcolor{red}{What \ were \ the \ data \ handling \ procedures?}$ |
+| $\textcolor{red}{Add \ this \ section:}$ Will any participant information be included in the study report? (APA Methods Participants section) |
 | <br><br><br><br> |
 | **----------Section #3: Individual Test Information (Complete this section for each test run.)----------** |
 |  |
