@@ -1,5 +1,6 @@
 You must use the concepts you learn in this course throughout the rest of your program. To help you do this, you will build a couple of tools to help you after you finish this course. The first is a table of what statistical tests can be used when you have independent (or predictor) variables (IV) and dependent (or outcome) variables (DV) with various levels of measurement. The second is an analysis/critique checklist of things you should consider when performing an analysis or critiquing the statistical analyses used in a research report. You must add information to your copy of these tools and turn it in each week as we go through the course.
 
+<br><br><br>
 # Which descriptive statistics should I use?
 
 | Nominal | Ordinal | Interval | Ratio |
