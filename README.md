@@ -5,7 +5,7 @@ You must use the concepts you learn in this course throughout the rest of your p
 | Nominal | Ordinal | Interval | Ratio |
 | --- | --- | --- | --- |
 | Categorical | Categorical | Continuous | Continuous |
-| Data Summary: Frequency and Percentages | Data Summary: Frequency and Percentages | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges |
+| Data Summary: Frequency (counts) and Percentages | Data Summary: Frequency (counts) and Percentages | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges | Data Summary: Means and Standard Deviations <br>Data Summary (outliers present or skewed data): Medians and Ranges |
 | Data Display: Bar Charts | Data Display: Bar Charts | Data Display: Histograms and Box Plots | Data Display: Histograms and Box Plots |
 
 # Which statistical test should I use?
